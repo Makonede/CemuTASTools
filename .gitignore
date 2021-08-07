@@ -1,3 +1,11 @@
+# Special Git/GitHub files within sub-repositories
+**/.git/
+**/.github/
+**/.gitignore
+
+# Visual Studio projects
+**/.vs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
