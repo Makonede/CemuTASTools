@@ -4,7 +4,7 @@ A set of TAS tools for Cemu, including TASInput, frame advance, and savestates.
 
 # FAQ
 - So... where's the code?
-  - This repository is currently a placeholder. Developmet is going well, however, and as soon as I finish the first TAS tool, I will publish it here.
+  - This repository is currently a placeholder. Development is going well, however, and as soon as I finish the first TAS tool, I will publish it here.
 - What are the planned releases?
   - v0.1: TASInput
   - v0.1.1: Macros
