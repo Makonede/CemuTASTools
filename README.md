@@ -17,3 +17,9 @@ A set of TAS tools for Cemu, including TASInput, frame advance, and savestates.
 - What programming language will CemuTASTools be programmed in?
   - C++.
  
+# Secret Project
+CemuTASTools is part of a secret, private project. I don't mention it directly anywhere here, but something in CemuTASTools might hint at its existence somewhere... I also may have sprinkled mentions of it here and there across my [Discord server].
+
+This project will becomes public once it is complete. Stay tuned; it's going to be awesome, and you can even try it at home.
+
+[Discord server]: https://discord.gg/wJGnueZ
