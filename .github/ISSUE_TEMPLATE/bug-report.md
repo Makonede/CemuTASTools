@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: bug
@@ -29,10 +29,10 @@ If the answer to any of these questions is "yes," the bug report is invalid and 
 Please delete this comment before submitting the bug report.
 -->
 
-**Decription**
+## Decription
 <!-- Give a general description of what goes wrong. -->
 
-**How to Reproduce**
+## How to reproduce
 <!--
 Describe how to reproduce the bug.
 Use a Markdown ordered list, like so:
@@ -41,11 +41,11 @@ Use a Markdown ordered list, like so:
 3. baz
 -->
 
-**Expected Behavior**
+## Expected behavior
 <!-- What did you expect to happen? -->
 
-**Actual Behavior**
+## Actual behavior
 <!-- What actually happened? -->
 
-**Anything else**
+## Additional context
 <!-- Add anything else here. -->

@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: enhancement
@@ -14,10 +14,10 @@ You must have considered at least one reasonable alternative for your problem fo
 Please delete this comment before submitting the feature request.
 -->
 
-# Description
+## Description
 <!-- Describe what you would like added. -->
 
-# Alternatives Tried
+## Alternatives Tried
 <!--
 List the alternatives you have considered, and why none of them are suitable for your situation.
 Use a Markdown unordered list, like so:
@@ -26,5 +26,8 @@ Use a Markdown unordered list, like so:
 - baz
 -->
 
-# Reason
+## Reason
 <!-- Describe why we should add this feature over the existing alternatives. -->
+
+## Additional information
+<!-- Add anything else here. -->
