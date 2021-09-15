@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Discord server
     url: https://discord.gg/wJGnueZ
-    about: This is the support server for all of my projects. Issues should go in this repository, but general support/questions should go there.
+    about: This is the support server for all of my projects. Issues should go in this repository, but general support/questions should go here.
