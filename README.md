@@ -1,5 +1,6 @@
 # CemuTASTools
 ![GPLv3 logo]
+![CC BY-SA 4.0 logo]
 
 A set of TAS tools for Cemu, including TASInput, frame advance, and savestates.
 
@@ -25,4 +26,5 @@ CemuTASTools is part of a secret, private project. I don't mention it directly a
 This project will becomes public once it is complete. Stay tuned; it's going to be awesome, and you can even try it at home.
 
 [GPLv3 logo]: https://www.gnu.org/graphics/gplv3-127x51.png
+[CC BY-SA 4.0 logo]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [Discord server]: https://discord.gg/wJGnueZ
