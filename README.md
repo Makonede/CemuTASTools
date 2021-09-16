@@ -1,6 +1,5 @@
 # CemuTASTools
-[![GPLv3 logo][1]][2]
-[![CC BY-SA 4.0 logo][3]][4]
+[![GPLv3 logo][1]][2][![CC BY-SA 4.0 logo][3]][4]
 
 A set of TAS tools for Cemu, including TASInput, frame advance, and savestates.
 
