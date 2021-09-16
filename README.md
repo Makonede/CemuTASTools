@@ -26,13 +26,10 @@ CemuTASTools is part of a secret, private project. I don't mention it directly a
 This project will becomes public once it is complete. Stay tuned; it's going to be awesome, and you can even try it at home.
 
 # License
-The source code is licensed under the [GNU General Public License v3.0][2]. All images used in the app are licensed under [Creative Commons Attribution-ShareAlike 4.0 International license ![Creative Commons logo][6] ![Creative Commons Attribution logo][7] ![Creative Commons ShareAlike logo][8]][4].
+The source code is licensed under the [GNU General Public License v3.0][2]. All images used in the app are licensed under [Creative Commons Attribution-ShareAlike 4.0 International <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons logo" width=22px height=22px><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Creative Commons Attribution logo" width=22px height=22px><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="Creative Commons ShareAlike logo" width=22px height=22px>][4].
 
  [1]: https://www.gnu.org/graphics/gplv3-127x51.png
  [2]: https://www.gnu.org/licenses/gpl-3.0.html
  [3]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
  [4]: https://creativecommons.org/licenses/by-sa/4.0/
  [5]: https://discord.gg/wJGnueZ
- [6]: https://mirrors.creativecommons.org/presskit/icons/cc.svg
- [7]: https://mirrors.creativecommons.org/presskit/icons/by.svg
- [8]: https://mirrors.creativecommons.org/presskit/icons/sa.svg
