@@ -1,6 +1,6 @@
 # CemuTASTools
-![GPLv3 logo]
-![CC BY-SA 4.0 logo]
+[![GPLv3 logo][1]][2]
+[![CC BY-SA 4.0 logo][3]][4]
 
 A set of TAS tools for Cemu, including TASInput, frame advance, and savestates.
 
@@ -21,10 +21,18 @@ A set of TAS tools for Cemu, including TASInput, frame advance, and savestates.
   - C++.
  
 # Secret Project
-CemuTASTools is part of a secret, private project. I don't mention it directly anywhere here, but something in CemuTASTools might hint at its existence somewhere... I also may have sprinkled mentions of it here and there across my [Discord server].
+CemuTASTools is part of a secret, private project. I don't mention it directly anywhere here, but something in CemuTASTools might hint at its existence somewhere... I also may have sprinkled mentions of it here and there across my [Discord server][5].
 
 This project will becomes public once it is complete. Stay tuned; it's going to be awesome, and you can even try it at home.
 
-[GPLv3 logo]: https://www.gnu.org/graphics/gplv3-127x51.png
-[CC BY-SA 4.0 logo]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-[Discord server]: https://discord.gg/wJGnueZ
+# License
+The source code is licensed under the [GNU General Public License v3.0][2]. All images used in the app are licensed under [Creative Commons Attribution-ShareAlike 4.0 International license ![Creative Commons logo][6] ![Creative Commons Attribution logo][7] ![Creative Commons ShareAlike logo][8]][4].
+
+ [1]: https://www.gnu.org/graphics/gplv3-127x51.png
+ [2]: https://www.gnu.org/licenses/gpl-3.0.html
+ [3]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+ [4]: https://creativecommons.org/licenses/by-sa/4.0/
+ [5]: https://discord.gg/wJGnueZ
+ [6]: https://mirrors.creativecommons.org/presskit/icons/cc.svg
+ [7]: https://mirrors.creativecommons.org/presskit/icons/by.svg
+ [8]: https://mirrors.creativecommons.org/presskit/icons/sa.svg
