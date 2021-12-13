@@ -1,12 +1,3 @@
----
-name: Pull Request
-about: Contribute to the project to improve on it
-title: ''
-labels: enhancement
-assignees: ''
-
----
-
 <!--
 Replace all the comments below with answers.
 Delete this comment before submitting the pull request.
