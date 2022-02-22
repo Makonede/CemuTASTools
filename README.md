@@ -1,10 +1,6 @@
 # CemuTASTools
-<a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">
-  <img src="https://www.gnu.org/graphics/gplv3-127x51.png" alt="GPLv3 Logo">
-</a>
-<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">
-  <img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="CC BY-SA 4.0 logo">
-</a>
+[![GPLv3 logo][1]][2]
+[![CC BY-SA 4.0 logo][3]][4]
 
 A set of TAS tools for Cemu, including TASInput, frame advance, and savestates.
 
@@ -25,9 +21,15 @@ A set of TAS tools for Cemu, including TASInput, frame advance, and savestates.
   - See [CONTRIBUTING.md](https://github.com/Makonede/CemuTASTools/blob/main/CONTRIBUTING.md).
  
 # Secret Project
-CemuTASTools is part of a secret, private project. I don't mention it directly anywhere here, but something in CemuTASTools might hint at its existence somewhere... I also may have sprinkled mentions of it here and there across my <a href="https://discord.gg/wJGnueZ" target="_blank">Discord server</a>.
+CemuTASTools is part of a secret, private project. I don't mention it directly anywhere here, but something in CemuTASTools might hint at its existence somewhere... I also may have sprinkled mentions of it here and there across my [Discord server][5].
 
 This project will become public once it is complete. Stay tuned; it's going to be awesome, and you can even try it yourself.
 
 # License
-The source code and documentation is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GNU General Public License v3.0</a>, and all images used in the app are licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons logo" width=22px height=22px><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Creative Commons Attribution logo" width=22px height=22px><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="Creative Commons ShareAlike logo" width=22px height=22px></a>.
+The source code and documentation is licensed under the [GNU General Public License v3.0][2], and all images used in the app are licensed under [Creative Commons Attribution-ShareAlike 4.0 International <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons logo" width=22px height=22px><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Creative Commons Attribution logo" width=22px height=22px><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="Creative Commons ShareAlike logo" width=22px height=22px>][4].
+
+ [1]: https://www.gnu.org/graphics/gplv3-127x51.png
+ [2]: https://www.gnu.org/licenses/gpl-3.0.html
+ [3]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+ [4]: https://creativecommons.org/licenses/by-sa/4.0/
+ [5]: https://discord.gg/wJGnueZ
