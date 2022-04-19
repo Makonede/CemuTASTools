@@ -16,11 +16,13 @@ A set of TAS tools for Cemu, including TASInput, frame advance, and savestates.
 - Wouldn't Wii U savestates be huge?
   - Yes, but that can't really be fixed. The savestate files will be compressed, reducing their size, but one savestate is still usually around 1 GB. It's just one of those unfortunate quirks of TASing.
 - What programming language will CemuTASTools be programmed in?
-  - Mainly C++, and Python for the GUI.
+  - C++.
 - How do I contribute?
   - See [CONTRIBUTING.md](https://github.com/Makonede/CemuTASTools/blob/main/CONTRIBUTING.md).
 - Will there be Linux sup-
   - **NO.**
+  - I do not have and will not take the time to help with using CemuTASTools on Linux (or macOS, or \*nix in general). As such, issues regarding incompatibility with \*nix will be immediately closed as invalid.
+  - This is not to say that CemuTASTools won't work on Wine or CrossOver, but if it doesn't, that's your problem, not mine.
  
 # Secret Project
 CemuTASTools is part of a secret, private project. I don't mention it directly anywhere here, but something in CemuTASTools might hint at its existence somewhere... I also may have sprinkled mentions of it here and there across my [Discord server][5].
