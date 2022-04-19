@@ -19,6 +19,8 @@ A set of TAS tools for Cemu, including TASInput, frame advance, and savestates.
   - Mainly C++, and Python for the GUI.
 - How do I contribute?
   - See [CONTRIBUTING.md](https://github.com/Makonede/CemuTASTools/blob/main/CONTRIBUTING.md).
+- Will there be Linux sup-
+  - **NO.**
  
 # Secret Project
 CemuTASTools is part of a secret, private project. I don't mention it directly anywhere here, but something in CemuTASTools might hint at its existence somewhere... I also may have sprinkled mentions of it here and there across my [Discord server][5].
