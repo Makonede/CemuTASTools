@@ -19,7 +19,7 @@ assignees: ''
 - [ ] My Cemu, CemuTASTools, and Cemuhook (if applicable) versions are compatible.
 - [ ] This bug is reproducable with no graphic packs enabled.
 - [ ] This bug is reproducable on an AMD or NVIDIA GPU.
-- [ ] If this bug occurs only in a specific title, the title is rated Playable or Perfect in the [Cemu Compatibility List](https://compat.cemu.info).
+- [ ] If this bug occurs only in a specific title, the title is rated Runs, Playable, or Perfect in the [Cemu Compatibility List](https://compat.cemu.info).
 - [ ] I am using official and unmodified versions of Cemu, CemuTASTools, and Cemuhook (if applicable).
 - [ ] I have uploaded a log file.
 
