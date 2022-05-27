@@ -1,33 +1,22 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: 'feature: '
 labels: enhancement
 assignees: ''
 
 ---
 
-<!--
-Replace all the comments below with answers.
-You must have considered at least one reasonable alternative for your problem for the feature request to be valid.
-
-Please delete this comment before submitting the feature request.
--->
-
 ## Description
-<!-- Describe what you would like added. -->
+> Replace this entire line (including the `> `) with a description of what you would like added.
 
-## Alternatives Tried
-<!--
-List the alternatives you have considered, and why none of them are suitable for your situation.
-Use a Markdown unordered list, like so:
-- foo
-- bar
-- baz
--->
+## Alternatives tried
+- I tried cooking spam.
+- I tried cooking eggs.
+- Replace these with the actual alternatives you tried, adding or removing lines as necessary.
 
 ## Reason
-<!-- Describe why we should add this feature over the existing alternatives. -->
+> Replace this line with an explanation of why this feature should be used over the alternatives.
 
 ## Additional information
-<!-- Add anything else here. -->
+<!-- Add anything else that may be useful here. -->
