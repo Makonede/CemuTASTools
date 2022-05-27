@@ -7,7 +7,7 @@ name: Mark stale issues and pull requests
 
 on:
   schedule:
-  - cron: $cron-daily
+  - cron: "0 0 * * *"
 
 jobs:
   stale:
@@ -25,3 +25,5 @@ jobs:
         stale-pr-message: 'This pull request has been inactive for 60 days and is now stale. If it remains inactive, it will be closed in 7 days.'
         stale-issue-label: 'stale'
         stale-pr-label: 'stale'
+        exempt-issue-labels: 'do-not-stale'
+        exempt-pr-labels: 'do-not-stale'
